@@ -1,1 +1,1 @@
-An alexa skill I made that looks up who the richest person is at the moment (parsed from a website)
+Richest person alexa skill
